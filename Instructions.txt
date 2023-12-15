@@ -1,0 +1,10 @@
+Instructions:
+1. Make sure you have access to a Python environment.
+2. Install the required dependencies by running: `pip install textblob pandas` (if running locally).
+3. If using Google Colab, make sure to install the required dependencies in a code cell: `!pip install textblob pandas`
+4. If running locally, place the input data file (`Input.xlsx`) in the same directory as this script.
+5. If using Google Colab, upload the `Input.xlsx` file to your Colab environment.
+6. Run the script using the command: `python text_analysis.py` (if running locally).
+   If using Google Colab, run each code cell sequentially.
+7. The output will be saved in the file `output.xlsx` in the same directory (for local execution).
+   If using Google Colab, the output file will be available in the Colab environment.
